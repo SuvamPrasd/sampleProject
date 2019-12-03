@@ -1,0 +1,112 @@
+---coding - Coding refers to the use of a text language to tell a computer what to do. Primarily, coders write detailed instruction manuals for machines to read. To get a better understanding of what coding is and what it's used for, you'll need a bit of background on how computers work.
+
+another meaning- Put simply, a programming (or coding) language is a set of syntax rules that define how code should be written and formatted. Thousands of different programming languages make it possible for us to create computer software, apps and websites.
+
+Can anyone learn to code?
+Anyone can learn to code, but coding isn't for everyone. In the learn to code community, you'll often hear one simple mantra: anyone can learn how to code. After all, for many self-taught developers it wasn't too long ago that they were learning on my own.
+
+-----------------------------------------
+top programming languages-
+1. JavaScript
+
+It seems impossible to be a software developer these days without using JavaScript. The first one in the list is JavaScript, it seems impossible to imagine software development without JavaScript.
+
+Looking at the Stack Overflow’s 2018 Developer Survey, JavaScript is the most popular language among developers successively for 6 years. And around 65% of them have used this language in the past year.
+
+2. Python
+
+This may surprise you; I have kept python on number #2, in many of the surveys it is positioned on number #5. But, I will definitely let you believe, here’s why?
+
+Python is one of the general purpose, user-friendly programming language here on my list. What makes it so? Like Java, Python syntax is clear, intuitive and almost similar to the English language. Python’s “object-based” subset is somewhere similar to JavaScript.
+
+According to Stack Overflow, there is one section which says “To be adopted or migrated to be—or to migrate too soon”, and for python, it’s 12% which is highest. Broadly, people who have migrated to python are close to 42%, which signifies it to be at number #2.
+
+3. Java
+
+If anybody asks why java, most frequent sentence comes up would be “write once, run everywhere” – Java has been the ruling programming language for the last 20 years. Java is 99% object-oriented and is robust as java objects contain no references to data external to themselves. It is simpler than C++ because Java uses automatic memory allocation and garbage collection.
+
+4. C/CPP
+
+“Old is gold” – C has proved this quote in different ways. Being introduced in the late 1970s, C has made a strong contribution to the world of programming.
+
+C has been the parent language of a handful; some are either derived from C or inspired by its syntax, constructs, and paradigms, including Java, Objective-C, and C#.
+
+Even, nowadays, it is seen, whenever there is a need to build high-performance applications, C remains the most popular choice. 
+
+5. PHP
+
+This fact would seriously amaze you, the language which was created for a purpose of maintaining Personal Home Page (PHP) for Rasmus, have actually taken over around 83% of websites globally by today.
+
+PHP stands for Hypertext Preprocessor, is a general-purpose programming language. Clearly, PHP is a scripting language, which runs on a server, and it is used to create web pages written in HTML. It is popular because it is free, cheap, easy to set up and simple to use for new programmers.
+
+6. Swift
+
+Next on the list is Swift. As smooth as its name, Swift is a general-purpose, open-source, compiled programming language developed by Apple Inc. If you are looking develop to native iOS or Mac OS apps then, Swift is barely needed for its development.
+
+Swift is deeply influenced by Python and Ruby and was designed to be beginner-friendly and fun to use. Swift is considered to be a faster, more secure, and easier to read and debug than its predecessor Objective-C.
+
+7. C# (C- Sharp)
+
+C-sharp is a powerful, object-oriented programming language developed by Microsoft in 2000. C-sharp is utilized in developing desktop applications and more recently, Windows 8/10 applications and requires a .NET framework to function.
+
+Microsoft developed C# as a rival to Java. Actually, Sun did not want the interference of Microsoft to make changes in Java. So, it was created.
+
+8. Ruby
+
+An open source, dynamic programming language, focused on simplicity and productivity, developed in mid-1990 in Japan. It was designed with themed of simplifying the programming environment and making more fun.
+
+Ruby becomes popular by Ruby on Rails framework, a full-stack web framework. Ruby has dynamically typed language, it does not have hard rules and it is a high-level language which resembles with the English language to a great extent.
+
+9. Objective-C
+
+Objective-C (ObjC) is an object-oriented programming language. It is used by Apple for the OS X and iOS operating systems and their application programming interfaces (APIs). It was developed in the 1980s and came in usage by some of the earliest operating systems.
+
+Objective-C is object-oriented, general purpose. You can call it hybrid C because of the features it adds to C programming language.
+
+10. SQL
+
+SQL (es-que-el) stands for Structured Query Language, is a programming language to operate databases. It includes storing, manipulating and retrieving data stored in a relational database.
+
+SQL keeps data precise and secure, and it also helps in maintaining the integrity of databases, irrespective of its size.
+
+SQL is used today across web frameworks and database applications. If you are well versed in SQL, you can have better command over data exploration, and effective decision making.
+------------------------------------------------
+Wrapping up!
+
+Since, the software industry changes with every new update or release. “What is the best programming language of the world?” is hard. If you want to start your career as a developer, it is only you who can decide which one is best suited as per your interest in varying fields.
+
+Let’s choose:
+
+    Front-end web development – JavaScript
+    Back-end web development – JavaScript, Python, Java, PHP, Ruby, C#
+    Desktop application – Java, C++, Python
+    Mobile development – Swift, Java, C#
+    Game development – C++, C#
+
+Once again, here is the list of top 10 programming languages to start with:
+
+    JavaScript https://www.codecademy.com/learn/introduction-to-javascript
+    Python https://www.geeksforgeeks.org/python-programming-language/
+    Java https://www.w3schools.com/java/java_intro.asp
+    C/CPP c-https://www.learn-c.org/ c++- https://www.codecademy.com/learn/learn-c-plus-plus
+    PHP https://www.w3schools.com/php/
+    Swift https://www.tutorialspoint.com/swift/index.htm
+    C# https://www.javatpoint.com/c-sharp-tutorial
+    Ruby https://www.learnrubyonline.org/
+    Objective – C https://www.tutorialspoint.com/objective_c/index.htm
+    SQL https://www.w3schools.com/sql/
+---------------------------------------------------------
+
+css gradient-
+1. background: #0052D4;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #6FB1FC, #4364F7, #0052D4);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #6FB1FC, #4364F7, #0052D4); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+
+2. background: #00416A;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #E4E5E6, #00416A);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #E4E5E6, #00416A); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+3.background: #0F2027;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #2C5364, #203A43, #0F2027);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #2C5364, #203A43, #0F2027); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */

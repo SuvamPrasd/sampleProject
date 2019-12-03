@@ -1,0 +1,35 @@
+body{
+    background: url(../images/green-pine-trees-covered-with-fogs-under-white-sky-during-167699.jpg) no-repeat center center fixed;
+    background-size: cover;
+    font-family: 'Quicksand', sans-serif;
+}
+
+.jm-bg{
+    opacity: 0.7;
+}
+
+.par-style{
+    font-style: normal;
+    font-weight: bolder;
+}
+
+.footer{
+    font-weight: bolder;
+    position: relative;
+    margin-top: 10px;
+    bottom: 0;
+}
+
+.code-shape{
+    color: azure;
+}
+
+.list-group-item{
+    background: none;
+}
+
+.list-bg{
+    background-color: aliceblue;
+    color: black;
+    border-radius: 5px;
+}
