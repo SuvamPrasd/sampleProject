@@ -35,6 +35,7 @@ body{
 }
 
 .change-bg{
-    background-color: #263238;
+    background-color: #FFEB3B;
+    color: #000;
     border-radius: 10px;
 }
