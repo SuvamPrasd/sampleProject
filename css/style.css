@@ -1,7 +1,26 @@
 body{
-    background: url(../images/green-pine-trees-covered-with-fogs-under-white-sky-during-167699.jpg) no-repeat center center fixed;
-    background-size: cover;
+    background: linear-gradient(179deg, #959f9c, #99f5a0, #5bf2cc, #5b9af2, #5b6cf2, #ae5bf2);
+    background-size: 1200% 1200%;
+    -webkit-animation: AnimationName 9s ease infinite;
+    -moz-animation: AnimationName 9s ease infinite;
+    animation: AnimationName 9s ease infinite;
     font-family: 'Quicksand', sans-serif;
+}
+
+@-webkit-keyframes AnimationName {
+    0%{background-position:72% 0%}
+    50%{background-position:29% 100%}
+    100%{background-position:72% 0%}
+}
+@-moz-keyframes AnimationName {
+    0%{background-position:72% 0%}
+    50%{background-position:29% 100%}
+    100%{background-position:72% 0%}
+}
+@keyframes AnimationName {
+    0%{background-position:72% 0%}
+    50%{background-position:29% 100%}
+    100%{background-position:72% 0%}
 }
 
 .jm-bg{

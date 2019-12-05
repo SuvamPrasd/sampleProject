@@ -111,6 +111,37 @@ background: linear-gradient(to right, #E4E5E6, #00416A); /* W3C, IE 10+/ Edge, F
 background: -webkit-linear-gradient(to right, #2C5364, #203A43, #0F2027);  /* Chrome 10-25, Safari 5.1-6 */
 background: linear-gradient(to right, #2C5364, #203A43, #0F2027); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 
+4.background: #2196f3;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #f44336, #2196f3);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #f44336, #2196f3); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+5.background: #000000;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #434343, #000000);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #434343, #000000); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+6. background: linear-gradient(179deg, #959f9c, #99f5a0, #5bf2cc, #5b9af2, #5b6cf2, #ae5bf2);
+background-size: 1200% 1200%;
+
+-webkit-animation: AnimationName 9s ease infinite;
+-moz-animation: AnimationName 9s ease infinite;
+animation: AnimationName 9s ease infinite;
+
+@-webkit-keyframes AnimationName {
+    0%{background-position:72% 0%}
+    50%{background-position:29% 100%}
+    100%{background-position:72% 0%}
+}
+@-moz-keyframes AnimationName {
+    0%{background-position:72% 0%}
+    50%{background-position:29% 100%}
+    100%{background-position:72% 0%}
+}
+@keyframes AnimationName {
+    0%{background-position:72% 0%}
+    50%{background-position:29% 100%}
+    100%{background-position:72% 0%}
+}
+
 -----------------------
 IDE:
 An integrated development environment (IDE) is software for building applications that combines common developer tools into a single graphical user interface (GUI). An IDE typically consists of:
